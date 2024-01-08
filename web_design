@@ -1,0 +1,20 @@
+<h1>Serap Durak</h1>
+<!--acıklamalar yazılacaktır-->
+
+<!--Personal bilgiler yazılacaktır-->
+ <h2>Hakkimda</h2>
+
+ <p>Elektrik Elektronik mühendisliği bölümünden mezun oldum. Bir Arge firmasinda calismaktayim. Gömülü sistemler alaninda projelerde yer aldim. Front End alani ilgimi çekti bu sebeple yeni teknolojileri entegre edebileceğime inaniyorum.</p>
+
+ <h3>Beğendiğim Filmler</h3>
+
+ <p>Life is Beautiful, Fight Club,Can Dostlar, Esaretin Bedeli, Zindan adası... </p>
+
+ <h3>Beğendiğim Diziler</h3>
+
+ <p>Şahsiyet, How I Met Your Mother, The Simpsons, Avrupa Yakası </p>
+<!--footer element başlangıç-->
+<footer>
+    Copyright © 2024
+</footer>
+<!--footer element bitiş-->
